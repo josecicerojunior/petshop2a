@@ -1,0 +1,67 @@
+/* CSS GLOBAL */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  text-decoration: none;
+}
+.container {
+  padding: 120px 80px;
+}
+
+/* BANNER */
+.banner-topo {
+  background-image: url("/img/banner-topo.jpg");
+  background-position: center;
+  background-size: cover;
+}
+.container-titulo-topo{
+  max-width: 1024px;
+  border-radius: 10px;
+  padding: 40px;
+  margin: 70px auto 0;
+  background: #ffffffc4;
+  box-shadow: 0 8px 32px #1f26875e;
+}
+.titulo-topo{
+  font-size: 60px;
+  color: #3c184e;
+  text-align: center;
+  font-weight: 800;
+  margin: 0 0 40px;
+}
+.nome-pet-shop .container-nome-logo {
+  font-size: 35px;
+  margin: 0 0 5px 0;
+}
+.container-nome-logo {
+  max-width: 250px;
+  color:#3c184e;
+}
+
+.container-nome-logo img {
+  width: 30px;
+  margin-right: 5px;
+}
+.container-titulo-topo img {
+  width: 20px;
+}
+
+
+
+
+.container-nome-logo .slogan-pet-shop {
+  font-size: 14px;
+  text-align: center;
+  margin: 0;
+}
+
+
+
+
+
+
+
+
+
