@@ -63,3 +63,8 @@
 .container-titulo-topo img {
   width: 20px;
 }
+
+.destaque {
+  font-weight: 700;
+  font-style: italic;
+}
