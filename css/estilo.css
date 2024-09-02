@@ -88,7 +88,9 @@ h3 {
 .faixa {
   background-color: #3c184e;
   text-align: center;
-  margin-bottom: 20px;
+  /* margin-bottom: 100px;
+  margin-top: 100px; */
+  margin: 100px 0;
 }
 .text-faixa {
   max-width: 800px;
@@ -113,6 +115,7 @@ h3 {
 .logo-marca {
   width: 148px;
   height: 148px;
-}
+  margin: 0 15px
+
 /* Fim CSS marcas */
 
